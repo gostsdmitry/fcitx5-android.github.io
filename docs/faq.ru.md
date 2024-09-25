@@ -121,7 +121,7 @@ Fcitx 5 для Android регистрирует три поддерживаем�
 
 !!! подсказка
 
-    Подробности символов Unicode можно найти в [Списке символов Unicode](https://symbl.cc/en/unicode-table/)  or [List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters).
+    Подробности символов Unicode можно найти в [Списке символов Unicode](https://symbl.cc/en/unicode-table/)  bkb [Списке символов Unicode](https://en.wikipedia.org/wiki/List_of_Unicode_characters).
 
 Вторая иконка переключается на клавиатуру эмодзи:
 
